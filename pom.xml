@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>eureka</module>
         <module>seata-account-service</module>
         <module>seata-order-service</module>
         <module>seata-storage-service</module>
